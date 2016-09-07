@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'XHArrayDataSource_Example' do
+  pod 'XHArrayDataSource', :path => '../'
+
+  target 'XHArrayDataSource_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+  end
+end

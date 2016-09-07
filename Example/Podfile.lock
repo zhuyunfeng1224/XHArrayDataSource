@@ -1,0 +1,26 @@
+PODS:
+  - FBSnapshotTestCase (2.1.2):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.2)
+  - FBSnapshotTestCase/Core (2.1.2)
+  - FBSnapshotTestCase/SwiftSupport (2.1.2):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.4.0)
+  - XHArrayDataSource (1.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kiwi
+  - XHArrayDataSource (from `../`)
+
+EXTERNAL SOURCES:
+  XHArrayDataSource:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 918c55861356ee83aee7843d759f55a18ff6982b
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  XHArrayDataSource: ad3cef8354de4fd3b76c362832f7a1b9510f5b3c
+
+PODFILE CHECKSUM: ff6e2ad5c18b81c0fc77d221f327da1fd6390c41
+
+COCOAPODS: 1.0.1

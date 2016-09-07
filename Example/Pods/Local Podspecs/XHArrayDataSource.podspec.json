@@ -1,0 +1,22 @@
+{
+  "name": "XHArrayDataSource",
+  "version": "1.0.0",
+  "summary": "A short description of XHArrayDataSource.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/XHArrayDataSource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "echo": "leitianshi2009@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/XHArrayDataSource.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XHArrayDataSource/Classes/**/*"
+}

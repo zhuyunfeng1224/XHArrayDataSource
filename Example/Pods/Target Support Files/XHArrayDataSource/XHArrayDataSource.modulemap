@@ -1,0 +1,6 @@
+framework module XHArrayDataSource {
+  umbrella header "XHArrayDataSource-umbrella.h"
+
+  export *
+  module * { export * }
+}
