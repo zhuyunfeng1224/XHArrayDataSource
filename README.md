@@ -13,7 +13,7 @@ self.tableView.dataSource = _dataSource;
 
 UICollectionView同理
 
-## 安装
+## 导入
 ### 手工导入
 直接下载或者clone，将```pod->Development Pods->XHArrayDataSource->XHArrayDataSource->classes```中
 XHArrayDataSource.h和XHArrayDataSource.m引入工程即可
